@@ -1,5 +1,8 @@
 # Flutter Popups: No Context Needed!
 Flutter devs often wrestle with passing contexts around in their code, especially when it comes to showing pop-ups or overlays. But I've just discovered a way to do this without the usual context hassle. If you're using `GetX`, you might already know about `Get.context`, but what about when you're using `Provider` or `Riverpod`? Let's simplify this for you.
+
+![](https://github.com/nastaran-mohammadi/popup/blob/main/assets/pop-up-without-context.gif)
+
 First things first, let's add the latest version of the `bot_toast` package. Simply add `bot_toast: ^4.1.1` to your project's `pubspec.yaml` file.
 Next, initialise the package in your `main.dart` file as shown in the documentation:
 
