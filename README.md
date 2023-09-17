@@ -252,4 +252,4 @@ class _MyHomePageState extends State<MyHomePage> {
 It sounds like you've successfully implemented the pop-up functionality in your Flutter counter app, and it's working as expected. When you tap the + button, a pop-up appears, and when you press the confirm button inside the pop-up, the counter increments, the pop-up closes, and a success toast message is displayed.
 This is a great demonstration of how you can show pop-up toasts without context to enhance user interactions in your Flutter applications. If you have any more questions or need further assistance with your Flutter development, feel free to ask. Happy coding!
 
-here you can find [medium](medium) article for this repo.
+here you can find [medium](https://nastaran-mohammadi.medium.com/popflutter-popups-no-context-needed-3346e1b738c0) article for this repo.
